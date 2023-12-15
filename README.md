@@ -20,8 +20,8 @@
 
 # 📊 GitHub Stats
 <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=fahad1722&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="width: 400px">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=fahad1722&theme=dark&hide_border=false" alt="GitHub Streak Stats" style="width: 400px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=fahad1722&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" height="200" width="400px">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=fahad1722&theme=dark&hide_border=false" alt="GitHub Streak Stats"  height="200" width="400px">
 </div>
 
 

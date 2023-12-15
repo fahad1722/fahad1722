@@ -8,7 +8,7 @@
 
 - 👨‍💻 I’m currently learning **ReactJS**
 
-- 🔭 My Portfolio: [https://fahads-portfolio.netlify.app](https://fahads-portfolio.netlify.app){:target="_blank"}
+- 🔭 My Portfolio: [https://fahads-portfolio.netlify.app](https://fahads-portfolio.netlify.app)
 
 
 - 📫 How to reach me **mohammedfahad1905@gmail.com**

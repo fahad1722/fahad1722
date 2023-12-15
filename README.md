@@ -20,9 +20,10 @@
 
 # 📊 GitHub Stats
 <div style="display: flex; justify-content: space-around;">
-    <img src="https://github-readme-stats.vercel.app/api?username=fahad1722&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="max-width: 300px; height: 200px;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=fahad1722&theme=dark&hide_border=false" alt="GitHub Streak Stats" style="max-width: 200px; height: 200px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=fahad1722&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="width: 400px; height: 300px; object-fit: cover;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=fahad1722&theme=dark&hide_border=false" alt="GitHub Streak Stats" style="width: 400px; height: 300px; object-fit: cover;">
 </div>
+
 
 
 ### 🔝 Top Contributed Repo

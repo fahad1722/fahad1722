@@ -3,7 +3,8 @@
 <h1 align="center">Hi 👋, I'm Fahad</h1>
 <h3 align="center">I'm a Computer Science Student who is passionate about MERN Stack.</h3>
 
-[![Visit Count](https://visitcount.itsvg.in/api?id=fahad1722&icon=5&color=0)](https://visitcount.itsvg.in)
+---
+[![](https://visitcount.itsvg.in/api?id=fahad1722&icon=5&color=0)](https://visitcount.itsvg.in)
 
 - 👨‍💻 I’m currently learning **ReactJS**
 

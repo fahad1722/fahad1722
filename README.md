@@ -1,11 +1,11 @@
 
-<div>
 ## 💫 About Me
 <h1 align="center">Hi 👋, I'm Fahad</h1>
 <h3 align="center">I'm a Computer Science Student who is passionate about MERN Stack.</h3>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=fahad1722&icon=5&color=0)](https://visitcount.itsvg.in)
+
 - 👨‍💻 I’m currently learning **ReactJS**
 
 - 🔭 My Portfolio: [https://fahads-portfolio.netlify.app](https://fahads-portfolio.netlify.app)
@@ -29,4 +29,3 @@
 ### 🔝 Top Contributed Repo
 <img src="https://github-contributor-stats.vercel.app/api?username=fahad1722&limit=5&theme=dark&combine_all_yearly_contributions=true" style="width: 400px;  object-fit: cover;">
 
-</div>

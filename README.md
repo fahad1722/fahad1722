@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Fahad</h1>
 <h3 align="center">I'm a Computer Science Student who is passionate about MERN Stack.</h3>
 
-- 👨‍💻 I’m currently learning **ReactJS**
+- 👨‍💻 I’m currently learning **SpringBoot**
 
 - 🔭 My Portfolio: [https://fahads-portfolio.netlify.app](https://fahads-portfolio.netlify.app)
 
